@@ -4,7 +4,7 @@
 
 A client-side PDF toolkit. Every tool runs inside the browser tab — there is no backend, no upload endpoint, no account, and no document ever leaves the device.
 
-Designed and coded by [Rudra Agrawal](https://instagram.com/rudraagrawal.exe/).
+Designed (Developer's own AI) and coded by [Rudra Agrawal](https://instagram.com/rudraagrawal.exe/).
 
 ---
 
