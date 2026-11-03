@@ -1,0 +1,17 @@
+{
+  "name": "Docsy — Private PDF Toolkit",
+  "short_name": "Docsy",
+  "description": "Your PDFs. Your device. Your privacy. Client-side PDF tools with no uploads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0908",
+  "theme_color": "#0a0908",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
